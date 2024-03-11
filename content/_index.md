@@ -82,11 +82,10 @@ sections:
           location: Cambridge Massachusettes
           date_start: '2023-01-02'
           date_end: '2023-08-15'
-          description:  |2-             
-          Responsibilities include:
-
-              * Bulk RNA-seq Deconvolution
-              * Computer Visiton for Histopathology images
+          description: |2-             
+              Responsibilities include:
+                  * Bulk RNA-seq Deconvolution
+                  * Computer Visiton for Histopathology images
     # design:
     #   columns: '2'
   # - block: accomplishments
