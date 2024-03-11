@@ -1,12 +1,13 @@
 ---
-title: "An example preprint / working paper"
-authors:
+title: "Multimodal Clinical Pseudo-notes for Emergency Department Prediction Tasks using Multiple Embedding Model for EHR (MEME)
+Authors"
+authors: Simon A Lee, Sujay Jain, Alex Chen, Arabdha Biswas, Jennifer Fang, Akos Rudas, Jeffrey N Chiang
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+date: "2024-01-31T00:00:00Z"
+doi: "2402.00160"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-01-31T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,21 +18,21 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this work, we introduce Multiple Embedding Model for EHR (MEME), an approach that views Electronic Health Records (EHR) as multimodal data. This approach incorporates "pseudo-notes", textual representations of tabular EHR concepts such as diagnoses and medications, and allows us to effectively employ Large Language Models (LLMs) for EHR representation. This framework also adopts a multimodal approach, embedding each EHR modality separately. We demonstrate the effectiveness of MEME by applying it to several tasks within the Emergency Department across multiple hospital systems. Our findings show that MEME surpasses the performance of both single modality embedding methods and traditional machine learning approaches. However, we also observe notable limitations in generalizability across hospital institutions for all tested models.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
+url_pdf: https://arxiv.org/abs/2402.00160
+url_code: 'https://github.com/Simonlee711/MEME'
+url_dataset: 'https://paperswithcode.com/paper/multimodal-clinical-pseudo-notes-for'
 url_poster: '#'
 url_project: ''
 url_slides: ''
