@@ -25,7 +25,7 @@ organizations:
     url: https://compmed.ucla.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Multimodality, LLMs, and Representation Learning
 
 # Interests to show in About widget
 interests:
