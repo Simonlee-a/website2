@@ -257,7 +257,7 @@ sections:
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '34.0672'
-        longitude: '118.4422'  
+        longitude: '-118.4422'  
       contact_links:
         - icon: twitter
           icon_pack: fab
