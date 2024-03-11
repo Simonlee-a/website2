@@ -1,6 +1,6 @@
 ---
-title: "Multimodal Clinical Pseudo-notes for Emergency Department Prediction Tasks using Multiple Embedding Model for EHR (MEME) Authors"
-authors: Simon A Lee, Sujay Jain, Alex Chen, Arabdha Biswas, Jennifer Fang, Akos Rudas, Jeffrey N Chiang
+title: "Multimodal Clinical Pseudo-notes for Emergency Department Prediction Tasks using Multiple Embedding Model for EHR (MEME)"
+authors: Simon A Lee, Sujay Jain, Alex Chen, Jennifer Fang, Akos Rudas, Jeffrey N Chiang
 - admin
 date: "2024-01-31T00:00:00Z"
 doi: "2402.00160"
